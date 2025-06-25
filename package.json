@@ -1,0 +1,16 @@
+{
+    "name": "Synthkit.js",
+    "version": "2.0.0",
+    "description": "Projet parodique de la technologie ultime du développement",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Synthkit.js Team",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2",
+      "dotenv": "^16.0.3"
+    }
+  }
+  
