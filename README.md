@@ -1,6 +1,6 @@
 # Synthkit.js - The Future of Code 🚀
 
-> **Warning: This is a parody/troll project. Not a real development tool!**
+> **Warning: This is a real project. Not a fake development tool!**
 
 ![GitHub stars](https://img.shields.io/github/stars/fake/Synthkit.js?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/fake/Synthkit.js?style=for-the-badge)
